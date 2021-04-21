@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.9229e560.chunk.css",
-    "main.js": "/static/js/main.cbb09e82.chunk.js",
-    "main.js.map": "/static/js/main.cbb09e82.chunk.js.map",
+    "main.css": "/static/css/main.e5847217.chunk.css",
+    "main.js": "/static/js/main.c4069df8.chunk.js",
+    "main.js.map": "/static/js/main.c4069df8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.49f96473.js",
     "runtime-main.js.map": "/static/js/runtime-main.49f96473.js.map",
     "static/js/2.052caac8.chunk.js": "/static/js/2.052caac8.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.447d041e.chunk.js": "/static/js/3.447d041e.chunk.js",
     "static/js/3.447d041e.chunk.js.map": "/static/js/3.447d041e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9229e560.chunk.css.map": "/static/css/main.9229e560.chunk.css.map",
+    "static/css/main.e5847217.chunk.css.map": "/static/css/main.e5847217.chunk.css.map",
     "static/js/2.052caac8.chunk.js.LICENSE.txt": "/static/js/2.052caac8.chunk.js.LICENSE.txt",
     "static/media/main.css": "/static/media/Montserrat-Regular.2a2d37bf.ttf",
     "static/media/ankita.423372f4.jpeg": "/static/media/ankita.423372f4.jpeg",
@@ -18,10 +18,11 @@
     "static/media/as.e21afe81.jpeg": "/static/media/as.e21afe81.jpeg",
     "static/media/ashwin.16a957c4.jpeg": "/static/media/ashwin.16a957c4.jpeg",
     "static/media/Contact.css": "/static/media/bg-01.8918d148.jpg",
-    "static/media/App.css": "/static/media/bgAbout-2.c7421d3b.jpg",
+    "static/media/App.css": "/static/media/logo-3.f1c3a19c.gif",
     "static/media/notice.css": "/static/media/bgAbout.01166af7.jpg",
     "static/media/About.css": "/static/media/bgTeam.b821052f.jpg",
     "static/media/biswajit.5c86b504.jpg": "/static/media/biswajit.5c86b504.jpg",
+    "static/media/brand.5abb1602.jpeg": "/static/media/brand.5abb1602.jpeg",
     "static/media/bs.858b52ff.jpg": "/static/media/bs.858b52ff.jpg",
     "static/media/directorSahab.0d23e964.jpg": "/static/media/directorSahab.0d23e964.jpg",
     "static/media/kashish-singh.84b105ba.jpeg": "/static/media/kashish-singh.84b105ba.jpeg",
@@ -33,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.49f96473.js",
     "static/js/2.052caac8.chunk.js",
-    "static/css/main.9229e560.chunk.css",
-    "static/js/main.cbb09e82.chunk.js"
+    "static/css/main.e5847217.chunk.css",
+    "static/js/main.c4069df8.chunk.js"
   ]
 }
